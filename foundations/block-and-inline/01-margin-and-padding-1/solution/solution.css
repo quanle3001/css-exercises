@@ -1,6 +1,8 @@
 body {
   max-width: 600px;
+  width: 600px;
   margin: 0 auto;
+  border: 100px solid black;
 }
 
 .one {
@@ -24,5 +26,5 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
-  margin-left: auto;
+  margin-left: 0 auto;
 }
